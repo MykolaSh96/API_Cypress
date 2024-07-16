@@ -1,0 +1,16 @@
+{
+  "postRequestBody": {
+    "DOB": "1974-07-28",
+    "EMAIL": "Sterling.Brakus30@hotmail.com",
+    "FIRST_NAME": "Oran",
+    "LAST_NAME": "Walsh",
+    "INSTRUCTOR_ID": 4
+  },
+  "putRequestBody": {
+    "DOB": "2000-07-28",
+    "EMAIL": "updatedSterling.Brakus30@hotmail.com",
+    "FIRST_NAME": "updatedOran",
+    "LAST_NAME": "updatedWalsh",
+    "INSTRUCTOR_ID": 2
+  }
+}
